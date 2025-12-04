@@ -1,0 +1,135 @@
+This repository contains an end-to-end Sales Data Analysis project where I cleaned, transformed, and visualized sales data using AI-powered cleaning, Excel, and Power BI.
+The goal of this project is to uncover key business insights such as revenue trends, product performance, regional sales patterns, and customer behavior.
+
+🚀 Project Overview
+
+This project demonstrates the complete analytics pipeline:
+
+✔ Raw data exploration
+
+✔ AI-assisted data cleaning & preprocessing
+
+✔ Excel-based corrections & transformations
+
+✔ Power BI dashboard development
+
+✔ KPI extraction & business insights
+
+The final dashboard provides a clear and interactive view of sales performance that supports quick decision-making.
+
+🔍 1. Dataset Description
+
+The dataset includes:
+
+Product details
+
+Sales date
+
+Region / Country
+
+Quantity sold
+
+Sales amount / Revenue
+
+Customer data
+
+The raw data contained inconsistencies such as:
+
+Missing values
+
+Duplicates
+
+Incorrect formats
+
+Irregular date structures
+
+Inconsistent text (categories, names)
+
+🤖 2. AI-Assisted Data Cleaning (Important)
+
+A major highlight of this project is the use of AI tools (ChatGPT/Copilot) to speed up the cleaning process.
+
+AI helped with:
+
+🧹 Detecting and fixing missing values
+
+🔁 Identifying duplicates
+
+🧽 Reformatting dates and numbers
+
+🔍 Spotting outliers
+
+🔤 Standardizing product/category names
+
+🔧 Suggesting formulas for Excel
+
+⚙️ Recommending best transformations
+
+📄 Creating clean, analysis-ready tables
+
+This drastically reduced manual time and made cleaning fast, accurate, and effortless.
+
+➡️ AI was used both for cleaning logic and Excel formula assistance.
+
+🧮 3. Excel Data Preparation
+
+After AI suggestions, I used Microsoft Excel for:
+
+Applying recommended formulas
+
+Creating calculated fields
+
+Removing duplicates
+
+Cleaning text values
+
+Standardizing date and currency formats
+
+Creating intermediate sheets for BI import
+
+Excel served as the main transformation layer before loading data into Power BI.
+
+📈 4. Power BI Dashboard
+
+The cleaned dataset was imported into Power BI, where I designed an interactive dashboard featuring:
+
+Key Visuals
+
+Total Sales & Revenue
+
+Monthly & Yearly Trends
+
+Top Products & Categories
+
+Profit vs Revenue comparison
+
+Regional Sales Distribution
+
+Customer Segmentation
+
+KPI Cards for quick insights
+
+Dashboard Features
+
+Slicers for filtering by region, product, or year
+
+Interactive charts
+
+Clean, professional layout
+
+AI-guided improvements to visual design & DAX formulas
+
+🎯 5. Insights Gained
+
+Some example insights (replace with your real insights):
+
+🔼 Revenue is highest in Q3
+
+🥇 Product Category A is the top performer
+
+🌍 Region X contributes the highest sales
+
+📉 Certain months show seasonal drop-off
+
+👥 Returning customers generate more revenue
+
