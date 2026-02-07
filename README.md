@@ -95,6 +95,7 @@ Build clean, reproducible data pipelines
 
 Communicate insights through dashboards and documentation
 
+Author
 B. Madhu
 Aspiring Data Analyst | Python | Excel | Power BI
 Focused on building efficient, AI-assisted analytics solutions
