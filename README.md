@@ -1,11 +1,11 @@
 📊 Sales Data Analysis (AI-Assisted)
-Project Overview
+## Project Overview
 
 This project is an end-to-end sales data analysis workflow built to transform raw sales data into clean, structured, and insight-ready datasets, followed by exploratory analysis and dashboarding.
 
 A key focus of this project is demonstrating how AI can be used as a productivity tool in modern data analytics — especially for data cleaning, transformation, and feature engineering — while maintaining analytical control and business understanding.
 
-Objectives
+## Objectives
 
 Clean and preprocess raw sales data using AI-assisted Python workflows
 
@@ -17,7 +17,7 @@ Build interactive dashboards for business insights
 
 Follow professional project structuring and documentation standards
 
-Tools & Technologies
+## Tools & Technologies
 
 Python – data cleaning, transformation, feature engineering
 
@@ -29,7 +29,7 @@ Power BI – interactive dashboards and visual storytelling
 
 GitHub – version control and project documentation
 
-Project Structure
+## Project Structure
 sales-data-analysis/
 │
 ├── data/
@@ -59,7 +59,7 @@ sales-data-analysis/
 │
 └── README.md
 
-Data Cleaning Approach
+## Data Cleaning Approach
 
 Raw data is preserved in its original form
 
@@ -71,7 +71,7 @@ All transformations are reproducible through scripts
 
 This approach reflects how data analysts increasingly use AI to reduce manual effort while maintaining data accuracy and transparency.
 
-Key Analysis Areas
+## Key Analysis Areas
 
 Sales performance over time
 
@@ -83,7 +83,7 @@ Deal size and revenue distribution
 
 Actionable business insights for decision-making
 
-Outcome
+## Outcome
 
 This project demonstrates my ability to:
 
@@ -95,7 +95,20 @@ Build clean, reproducible data pipelines
 
 Communicate insights through dashboards and documentation
 
+## Dashboard Preview 
+## KPI Dashboard 
+![KPI] (reports/screenshots/Screenshot 2026-02-12 215142.png)
+
+## Product Performance
+![Product Analysis] (reports/screenshots/Screenshot 2026-02-12 215350.png)
+
+## Customer & Region Insights
+![Customer & Regional Performance] (reports/screenshots/Screenshot 2026-02-12 215452.png)
+
+## Profit & Growth Analysis
+![Profit & Growth] (reports/screenshots/Screenshot 2026-02-12 215531.png)
+
 Author
-B. Madhu
+[B. Madhu]
 Aspiring Data Analyst | Python | Excel | Power BI
 Focused on building efficient, AI-assisted analytics solutions
